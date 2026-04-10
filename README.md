@@ -23,7 +23,7 @@ Ce lab a pour but de pratiquer la sécurité réseau dans un environnement réal
 
 ---
 
-## Topologie
+## Topologie ![Docs](Topologie_ACL_GNS3.png)
 
 ### Vue d'ensemble
 
